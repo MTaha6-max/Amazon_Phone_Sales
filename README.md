@@ -30,7 +30,7 @@ The dashboard consists of **3 main interactive pages**:
 *Note: Replace these with your actual image paths once uploaded to the Screenshots folder.*
 - **Overview Page:** ![Market Overview](Amazon_Phone_Sales/Overview.png)
 - **Product Performance:** ![Product Performance](Amazon_Phone_Sales/Product_Performance.png)
-- **Customer Behavior:** ![Customer Behavior](Amazon_Phone_Sales/Customer Behavior.png)
+- **Customer Behavior:** ![Customer Behavior](Amazon_Phone_Sales/Customer_Behavior.png)
 
 ##  Advanced DAX Measures Created
 To drive deep business insights, several advanced DAX measures were implemented:
